@@ -144,6 +144,12 @@ A separate **18-message diagnostic check** with a provisional 0.30 threshold yie
 BS Artificial Intelligence student  
 GitHub: [eng-gotam](https://github.com/eng-gotam)
 
+## Live Demo
+
+Try the University NLP Chatbot:
+
+[Launch Chatbot](https://university-nlp-chatbot-3rqimfhogzwyt9uqe3rj43.streamlit.app/)]
+
 ## Disclaimer
 
 This is an educational machine-learning project. It is not affiliated with or endorsed by a university. Always consult official university sources for current admissions, fees, scholarships, and contact details.
